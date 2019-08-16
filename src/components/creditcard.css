@@ -1,0 +1,77 @@
+.credit-card{
+    width: 368px;
+    background-image: url("https://www.psdgraphics.com/wp-content/uploads/2009/01/blue-earth-wallpaper.jpg");
+    background-color: #020244;
+    color:white;
+    border-radius: 10px;
+    padding:0 10px;
+    height: 300px;
+}
+.credit-card-title{
+    text-align:right;
+    
+}
+.title-position{
+    padding-top: 3px;
+}
+.credit-card-chip{
+    border-radius: 10px;
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: -29px;
+}
+.credit-card-chip img{
+    border-radius: 5px;
+
+}
+.credit-card-number{
+    color: #e6c55f;
+    background-color: #847139;
+    height: 36px;
+    font-size: 27px;
+    margin-left: 20px;
+}
+.credit-card-valid-thru{
+text-align:right;
+display:flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.credit-card-thru{
+    width: 10px;
+    font-size: 10px;
+}
+.credit-card-month{
+    font-size: 10px;
+}
+.credit-card-year{
+    font-size: 13px ;
+}
+.credit-card-holder{
+    padding:0;
+    margin-top:0px;
+}
+.credit-card-logo{
+    width: 70px;
+    display:flex;
+    align-items:center;
+}
+.credit-card-logo img{
+    width:100%;
+    height: 70px;
+}
+.credit-card-content{
+    display:flex;
+}
+.credit-card-date{
+    display:flex;
+    flex-direction: row;
+}
+.credit-card-validite{
+    margin-top: -15px;
+}
+.credit-card-holder{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
